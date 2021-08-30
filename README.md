@@ -6,3 +6,4 @@ Used...
 
 - API from https://api.openweathermap.org
 - vanilla JS
+- JSON (probably used it for the first time)
